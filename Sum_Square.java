@@ -1,4 +1,4 @@
-/*1: WAP  print the total sum of square  from 1 to 10;
+/*1: WAP  print the total sum of square  from 1 to 20;
   Number   Square
 
 
